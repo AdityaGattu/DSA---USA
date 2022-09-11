@@ -33,3 +33,9 @@ int main() {
     
     return 0;
 }
+
+/tmp/BPfom7XXYT.o
+393 896 787 920
+temp and sold_cb180.665 180 
+values of a and b is: 212 212 
+212
